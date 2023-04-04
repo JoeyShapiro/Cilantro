@@ -12,7 +12,7 @@ fn main() {
 
     println!("<rust_code>"); // could be wrapper
     unsafe{
-        cpp_hello(); // interesting, when this is debug, gives asm. must be rust doing stuff, load special way
+        cpp_hello(); // interesting, when this is debug, gives asm. because was seg-faulting
         cpp_use( Some({
             unsafe extern "C"
             fn cb ()
