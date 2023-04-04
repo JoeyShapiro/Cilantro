@@ -13,6 +13,7 @@ typedef struct CppClass CppClass;
 #endif
 
 void cpp_hello();
+void cpp_use(void (*draw)());
 
 #ifdef __cplusplus
 }
