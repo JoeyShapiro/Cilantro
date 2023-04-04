@@ -6,6 +6,6 @@ extern "C" {
 fn main() {
     println!("hello");
     unsafe{
-        cpp_hello();
+        cpp_hello(); // interesting, when this is debug, gives asm. must be rust doing stuff, load special way
     }
 }
