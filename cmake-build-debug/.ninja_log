@@ -1,19 +1,7 @@
 # ninja log v5
-402	423	1680489780007652000	libCilantro.a	f8d459ec8ab16d
-6	29	1680572458892413585	CMakeFiles/Cilantro.dir/src/wrapper.cpp.o	27d1d62575573d9b
-5	55	1680614071169786876	build.ninja	8702049e82cc2775
-0	5	0	clean	3c8e6cc385ee00ba
-7	334	1680572614066480787	CMakeFiles/Cilantro.dir/src/library.cpp.o	28fef85b628f3bcb
-334	365	1680572614099138421	libCilantro.dylib	d35a783f996ce5bd
-6	670	1680614874932083299	CMakeFiles/Cilantro.dir/src/library.cpp.o	28fef85b628f3bcb
-670	718	1680614874984679106	libCilantro.dylib	d35a783f996ce5bd
-7	342	1680615251741110084	CMakeFiles/Cilantro.dir/src/library.cpp.o	28fef85b628f3bcb
-342	378	1680615251778877482	libCilantro.dylib	d35a783f996ce5bd
-6	391	1680615331079391093	CMakeFiles/Cilantro.dir/src/library.cpp.o	28fef85b628f3bcb
-391	428	1680615331118154398	libCilantro.dylib	d35a783f996ce5bd
-7	379	1680615437736445322	CMakeFiles/Cilantro.dir/src/library.cpp.o	28fef85b628f3bcb
-379	414	1680615437773043274	libCilantro.dylib	d35a783f996ce5bd
-9	449	1680735794248494915	CMakeFiles/Cilantro.dir/src/library.cpp.o	28fef85b628f3bcb
-450	486	1680735794287524145	libCilantro.dylib	d35a783f996ce5bd
-7	422	1680735928936858295	CMakeFiles/Cilantro.dir/src/library.cpp.o	28fef85b628f3bcb
 422	458	1680735928975429853	libCilantro.dylib	d35a783f996ce5bd
+7	542	1680812605322196953	CMakeFiles/Cilantro.dir/src/library.cpp.o	7a8ea53ae586f7c3
+0	5	0	clean	3c8e6cc385ee00ba
+0	53	1680812714769951181	build.ninja	8702049e82cc2775
+7	163	1680812604944751012	CMakeFiles/Cilantro.dir/src/wrapper.cpp.o	17bc04c518a3e94b
+542	560	1680812605344305000	libCilantro.a	f8d459ec8ab16d

@@ -5,7 +5,8 @@ set(CMAKE_CXX_STANDARD 23)
 # disable name mangling, i think
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
-add_library(Cilantro SHARED src/library.cpp src/wrapper.cpp)
+#add_library(Cilantro SHARED src/library.cpp src/wrapper.cpp)
+add_library(Cilantro src/library.cpp src/wrapper.cpp)
 
 # for now, uses sym links :P
 # move to rust example places
